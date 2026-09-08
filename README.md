@@ -1,3 +1,5 @@
+## This is still in beta testing. Please be mindful that while this has been tested extensively there may still be bugs and/or issues. Please raise any issues via the [Github Issues](https://github.com/zippyy/GL.iNet-CrossModel-BackupRestoreUtility/issues) if you have any problems and I will get to as soon as i can 
+
 # GL.iNet Cross-Model Backup, Migration and Recovery
 
 `luci-app-glinet-crossmodel-backup` is a native, architecture-independent LuCI
